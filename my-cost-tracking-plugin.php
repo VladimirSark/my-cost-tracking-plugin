@@ -1,12 +1,9 @@
 <?php
 /**
  * Plugin Name: Profit Tracking Plugin
- * Plugin URI: YourPluginURI
  * Description: Calculate profits in WooCommerce.
  * Version: 1.0.0
  * Author: Vladimir
- * Author URI: YourAuthorURI
- * Text Domain: my-cost-tracking-plugin
  */
 
 add_action('plugins_loaded', 'my_cost_tracking_plugin_init');
